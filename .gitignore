@@ -27,3 +27,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+kicad/symbols/SEAM-40-03.5-L-14-2-A-K-TR.kicad_sym
+kicad/symbols/30310-6002HB.kicad_sym
+kicad/symbols/TXB0108PWR.kicad_sym
+kicad/symbols/DM1AA-SF-PEJ_82_.kicad_sym
+kicad/footprints/SAMTEC_SEAM-40-03.5-L-14-2-A-K-TR.kicad_mod
+kicad/footprints/SHDR10W64P254_2X5_2030X878X930P.kicad_mod
+kicad/footprints/SOP65P640X120-20N.kicad_mod
+kicad/footprints/DM1AA-SF-PEJ_21__1.kicad_mod
